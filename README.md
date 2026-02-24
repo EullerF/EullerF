@@ -35,9 +35,9 @@
 
 ### GitLab
 <p align="center">
-  <img src="https://img.shields.io/gitlab/followers/EullerF?style=for-the-badge"/>
-  <img src="https://img.shields.io/gitlab/stars/EullerF?style=for-the-badge"/>
-  <img src="https://img.shields.io/gitlab/commit-activity/y/EullerF?style=for-the-badge"/>
+  <a href="https://gitlab.com/EullerF" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-Perfil%20Ativo-orange?style=for-the-badge&logo=gitlab"/>
+  </a>
 </p>
 
 ---
