@@ -25,13 +25,24 @@
 
 ### GitHub
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EullerF&show_icons=true&theme=radical&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EullerF&layout=compact&theme=radical"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=EullerF&show_icons=true&theme=radical&count_private=true&cache_seconds=21600"/>
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EullerF&layout=compact&theme=radical&cache_seconds=21600"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/EullerF?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/EullerF?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/commit-activity/y/EullerF?style=for-the-badge"/>
 </p>
 
 ### GitLab
 <p align="center">
-  <img height="170em" src="https://gitlab-readme-stats.vercel.app/api?username=EullerF&theme=radical"/>
+  <img src="https://img.shields.io/gitlab/followers/EullerF?style=for-the-badge"/>
+  <img src="https://img.shields.io/gitlab/stars/EullerF?style=for-the-badge"/>
+  <img src="https://img.shields.io/gitlab/commit-activity/y/EullerF?style=for-the-badge"/>
 </p>
 
 ---
