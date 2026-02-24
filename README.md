@@ -23,18 +23,21 @@
 
 ## 📊 Estatísticas de Desenvolvimento
 
+### GitHub
 <p align="center">
-  <img src="https://img.shields.io/github/followers/EullerF?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/EullerF?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/repos/EullerF?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/commit-activity/y/EullerF?style=for-the-badge"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=EullerF&show_icons=true&theme=radical&count_private=true&cache_seconds=21600"/>
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EullerF&layout=compact&theme=radical&cache_seconds=21600"/>
 </p>
+
 
 ### GitLab
 <p align="center">
-  <a href="https://gitlab.com/EullerF" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-Perfil%20Ativo-orange?style=for-the-badge&logo=gitlab"/>
-  </a>
+  <img src="https://img.shields.io/gitlab/followers/EullerF?style=for-the-badge"/>
+  <img src="https://img.shields.io/gitlab/stars/EullerF?style=for-the-badge"/>
+  <img src="https://img.shields.io/gitlab/commit-activity/y/EullerF?style=for-the-badge"/>
 </p>
 
 ---
